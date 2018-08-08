@@ -10,4 +10,5 @@
 * [设备管理](docs/devicemanagement/设备管理.md)
 * [系统安全性](docs/security/系统安全性.md)
 * [UNIX系统内核结构](docs/unixkernel/UNIX系统内核结构.md)
+* [总结-让你了解操作系统基本概念](docs/总结/总结-让你了解操作系统基本概念.md)
 
